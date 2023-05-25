@@ -2,7 +2,7 @@ Type,Score,Result,Change,Skip,Overtime,Submit,Worry,Sad,Happy,Natural,Lable,Pred
 Depression,15,15-19 Relatively severe depressive symptoms,1,1,1,0,0.0,0.0,0.0,100.0,1,1
 Depression,20,20-27 Severe depressive symptoms,0,1,0,0,0.0,100.0,0.0,20.0,1,1
 Depression,19,15-19 Relatively severe depressive symptoms,0,0,0,0,7.69,100.0,4.44,84.62,0,0
-Depression,22,20-27 Severe depressive symptoms,0,0,0,0,84.21,33.9,1.56,10.94,0,1
+Depression,22,20-27 Severe depressive symptoms,0,0,0,0,84.21,33.9,1.56,10.94,0,0
 Depression,17,15-19 Relatively severe depressive symptoms,1,0,0,0,36.19,80.39,2.44,40.0,0,0
 Depression,26,20-27 Severe depressive symptoms,0,1,0,1,57.41,80.0,0.0,1.02,1,1
 Depression,23,20-27 Severe depressive symptoms,0,0,0,0,0.0,76.39,0.0,37.74,1,1
@@ -37,10 +37,10 @@ Depression,17,15-19 Relatively severe depressive symptoms,1,0,0,0,36.19,80.39,0.
 Depression,18,15-19 Relatively severe depressive symptoms,0,0,0,0,6.82,42.05,0.0,100.0,1,1
 Depression,3,0-4 No or mild depression,1,1,0,0,53.66,86.49,0.0,19.35,0,0
 Depression,20,20-27 Severe depressive symptoms,0,1,0,1,0.0,84.0,0.0,38.98,1,1
-Normal,9,5-9 Mild depressive symptoms,0,0,0,0,0.0,0.0,75.25,86.49,1,0
+Normal,9,5-9 Mild depressive symptoms,0,0,0,0,0.0,0.0,75.25,86.49,1,1
 Normal,3,0-4 No or mild depression,1,0,0,0,0.0,0.0,100.0,0.0,1,1
 Depression,19,15-19 Relatively severe depressive symptoms,1,0,0,0,84.62,100.0,0.0,4.53,1,1
-Normal,6,5-9 Mild depressive symptoms,0,0,0,0,0.0,0.0,51.52,95.45,1,0
+Normal,6,5-9 Mild depressive symptoms,0,0,0,0,0.0,0.0,51.52,95.45,1,1
 Normal,2,0-4 No or mild depression,0,0,0,0,0.0,1.02,76.78,97.83,1,1
 treating,24,20-27 Severe depressive symptoms,0,0,0,0,98.53,100.0,0.0,0.0,1,1
 treating,7,5-9 Mild depressive symptoms,0,0,0,0,0.0,3.95,0.0,100.0,1,1
