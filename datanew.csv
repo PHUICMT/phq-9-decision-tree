@@ -1,0 +1,53 @@
+﻿Type,Score,Change,Skip,Overtime,Submit,Worry,Sad,Happy,No Emotion,Lable
+Depression,0.56,Y,Y,Y,N,0,0,0,1,Relate
+Depression,0.74,N,Y,N,N,0,1,0,0.2,Relate
+Depression,0.7,N,N,N,N,0.08,1,0.04,0.85,Not Relate
+Depression,0.81,N,N,N,N,0.84,0.34,0.02,0.11,Not Relate
+Depression,0.63,Y,N,N,N,0.36,0.8,0.02,0.4,Not Relate
+Depression,0.96,N,Y,N,Y,0.57,0.8,0,0.01,Relate
+Depression,0.85,N,N,N,N,0,0.76,0,0.38,Relate
+Depression,0.67,N,N,N,N,0.07,0.42,0.01,1,Not Relate
+Depression,0.11,N,N,N,N,0.54,0.86,0,0.19,Not Relate
+Depression,0.74,Y,N,N,N,0.84,0.87,0,0.07,Relate
+Depression,0.74,N,N,N,N,0,0.84,0,0.39,Relate
+Normal,0.48,N,N,N,N,1,0.86,0,0.19,Not Relate
+Normal,0.11,Y,N,N,N,0.06,1,0.02,0,Not Relate
+Normal,0.22,N,N,N,N,0.22,0.58,0,1,Relate
+Normal,0.22,N,Y,N,N,0,0.95,0.04,0.52,Not Relate
+Normal,0.11,N,N,N,N,0,0.04,0.71,1,Relate
+Normal,0.07,N,N,N,N,0.02,0.98,0.14,0.14,Not Relate
+Normal,0.22,N,N,N,N,0.18,0.02,0.4,1,Relate
+Normal,0.19,N,N,N,N,0,0.61,0,0.82,Relate
+Normal,0.22,N,N,N,N,0,0.06,0,1,Relate
+Normal,0.22,N,N,N,N,0,0.31,0,1,Relate
+Normal,0.15,N,N,N,N,0.01,0.07,0.46,1,Relate
+treating,0.37,N,N,N,N,0.15,0.98,0.39,0.33,Relate
+treating,0.63,N,N,N,N,0.03,1,0,0.09,Relate
+treating,0.67,N,N,N,N,0.23,1,0,0.38,Relate
+treating,0.89,N,N,N,N,0,0.01,0,1,Not Relate
+treating,0.33,Y,N,N,N,0.07,0.72,0.04,0.94,Relate
+treating,0.63,N,N,N,N,0,0.04,0,1,Not Relate
+treating,0.59,N,N,N,N,0.52,1,0.13,0.02,Relate
+treating,0.63,N,N,N,N,0,0.95,0,0.81,Relate
+treating,0.67,N,N,N,N,0,0.95,0,0.81,Relate
+treating,0.48,N,N,N,N,0.97,0.86,0,0.19,Not Relate
+treating,0.11,N,Y,N,N,0.02,0.01,0,0.97,Relate
+Depression,0.78,N,N,N,N,0.85,0.64,0,0.76,Relate
+Depression,0.63,Y,N,N,N,0.36,0.8,0,0.4,Relate
+Depression,0.67,N,N,N,N,0.07,0.42,0,1,Relate
+Depression,0.11,Y,Y,N,N,0.54,0.86,0,0.19,Not Relate
+Depression,0.74,N,Y,N,Y,0,0.84,0,0.39,Relate
+Normal,0.33,N,N,N,N,0,0,0.75,0.86,Relate
+Normal,0.11,Y,N,N,N,0,0,1,0,Relate
+Depression,0.7,Y,N,N,N,0.85,1,0,0.05,Relate
+Normal,0.22,N,N,N,N,0,0,0.52,0.95,Relate
+Normal,0.07,N,N,N,N,0,0.01,0.77,0.98,Relate
+treating,0.89,N,N,N,N,0.99,1,0,0,Relate
+treating,0.26,N,N,N,N,0,0.04,0,1,Relate
+treating,0.33,N,N,N,N,0.94,0.72,0.04,0.1,Not Relate
+treating,0.59,N,N,N,N,0.13,0.02,0.52,1,Not Relate
+treating,0.3,N,N,N,N,0,0.95,0,0.81,Not Relate
+treating,0.48,N,N,N,N,0,0,0,0.97,Not Relate
+treating,0.85,N,N,N,N,0.97,0.86,0,0.19,Relate
+treating,0.67,N,N,N,N,0.97,0.86,0,0.19,Relate
+treating,0.93,N,Y,N,N,0.02,0.01,0,0.97,Not Relate

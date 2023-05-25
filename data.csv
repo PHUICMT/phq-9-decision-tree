@@ -1,0 +1,53 @@
+﻿Type,Score,Result,Change,Skip,Overtime,Submit,Worry,Sad,Happy,Natural,Lable
+Depression,15,15-19 Relatively severe depressive symptoms,Y,Y,Y,N,0,0,0,100,Relate
+Depression,20,20-27 Severe depressive symptoms,N,Y,N,N,0,100,0,20,Relate
+Depression,19,15-19 Relatively severe depressive symptoms,N,N,N,N,7.69,100,4.44,84.62,Not Relate
+Depression,22,20-27 Severe depressive symptoms,N,N,N,N,84.21,33.9,1.56,10.94,Not Relate
+Depression,17,15-19 Relatively severe depressive symptoms,Y,N,N,N,36.19,80.39,2.44,40,Not Relate
+Depression,26,20-27 Severe depressive symptoms,N,Y,N,Y,57.41,80,0,1.02,Relate
+Depression,23,20-27 Severe depressive symptoms,N,N,N,N,0,76.39,0,37.74,Relate
+Depression,18,15-19 Relatively severe depressive symptoms,N,N,N,N,6.82,42.05,1.23,100,Not Relate
+Depression,3,0-4 No or mild depression,N,N,N,N,53.66,86.49,0,19.35,Not Relate
+Depression,20,20-27 Severe depressive symptoms,Y,N,N,N,84.01,87.42,0,6.52,Relate
+Depression,20,20-27 Severe depressive symptoms,N,N,N,N,0,84,0,38.98,Relate
+Normal,13,10-14 Moderate depression,N,N,N,N,99.61,85.71,0,18.75,Not Relate
+Normal,3,0-4 No or mild depression,Y,N,N,N,5.88,100,2.44,0,Not Relate
+Normal,6,5-9 Mild depressive symptoms,N,N,N,N,21.88,58.33,0,100,Relate
+Normal,6,5-9 Mild depressive symptoms,N,Y,N,N,0,95.45,4.17,51.52,Not Relate
+Normal,3,0-4 No or mild depression,N,N,N,N,0,4.17,71.43,100,Relate
+Normal,2,0-4 No or mild depression,N,N,N,N,1.67,97.83,13.7,13.95,Not Relate
+Normal,6,5-9 Mild depressive symptoms,N,N,N,N,18.33,1.67,40,100,Relate
+Normal,5,5-9 Mild depressive symptoms,N,N,N,N,0,61.36,0,81.67,Relate
+Normal,6,5-9 Mild depressive symptoms,N,N,N,N,0,5.66,0,100,Relate
+Normal,6,5-9 Mild depressive symptoms,N,N,N,N,0,31.48,0,100,Relate
+Normal,4,0-4 No or mild depression,N,N,N,N,1.08,7.14,46.24,100,Relate
+treating,10,10-14 Moderate depression,N,N,N,N,14.89,97.62,38.78,33.33,Relate
+treating,17,15-19 Relatively severe depressive symptoms,N,N,N,N,3.33,100,0,8.77,Relate
+treating,18,15-19 Relatively severe depressive symptoms,N,N,N,N,22.92,100,0,37.5,Relate
+treating,24,20-27 Severe depressive symptoms,N,N,N,N,0,1.47,0,100,Not Relate
+treating,9,5-9 Mild depressive symptoms,Y,N,N,N,6.8,71.76,3.7,93.94,Relate
+treating,17,15-19 Relatively severe depressive symptoms,N,N,N,N,0,3.95,0,100,Not Relate
+treating,16,15-19 Relatively severe depressive symptoms,N,N,N,N,51.85,100,12.5,2.08,Relate
+treating,17,15-19 Relatively severe depressive symptoms,N,N,N,N,0,95.45,0,80.65,Relate
+treating,18,15-19 Relatively severe depressive symptoms,N,N,N,N,0,95.45,0,80.56,Relate
+treating,13,10-14 Moderate depression,N,N,N,N,96.91,85.71,0,18.75,Not Relate
+treating,3,0-4 No or mild depression,N,Y,N,N,2.36,1.02,0,96.91,Relate
+Depression,21,20-27 Severe depressive symptoms,N,N,N,N,85.25,63.58,0,75.96,Relate
+Depression,17,15-19 Relatively severe depressive symptoms,Y,N,N,N,36.19,80.39,0,40,Relate
+Depression,18,15-19 Relatively severe depressive symptoms,N,N,N,N,6.82,42.05,0,100,Relate
+Depression,3,0-4 No or mild depression,Y,Y,N,N,53.66,86.49,0,19.35,Not Relate
+Depression,20,20-27 Severe depressive symptoms,N,Y,N,Y,0,84,0,38.98,Relate
+Normal,9,5-9 Mild depressive symptoms,N,N,N,N,0,0,75.25,86.49,Relate
+Normal,3,0-4 No or mild depression,Y,N,N,N,0,0,100,0,Relate
+Depression,19,15-19 Relatively severe depressive symptoms,Y,N,N,N,84.62,100,0,4.53,Relate
+Normal,6,5-9 Mild depressive symptoms,N,N,N,N,0,0,51.52,95.45,Relate
+Normal,2,0-4 No or mild depression,N,N,N,N,0,1.02,76.78,97.83,Relate
+treating,24,20-27 Severe depressive symptoms,N,N,N,N,98.53,100,0,0,Relate
+treating,7,5-9 Mild depressive symptoms,N,N,N,N,0,3.95,0,100,Relate
+treating,9,5-9 Mild depressive symptoms,Y,N,N,N,93.94,71.76,3.7,9.8,Not Relate
+treating,16,15-19 Relatively severe depressive symptoms,N,N,N,N,12.5,2.08,51.85,100,Not Relate
+treating,8,5-9 Mild depressive symptoms,N,N,N,N,0,95.45,0,80.56,Not Relate
+treating,13,10-14 Moderate depression,N,N,N,N,0,0,0,96.91,Not Relate
+treating,23,20-27 Severe depressive symptoms,N,N,N,N,96.91,85.71,0,18.75,Relate
+treating,18,15-19 Relatively severe depressive symptoms,N,N,N,N,96.91,85.71,0,18.75,Relate
+treating,25,20-27 Severe depressive symptoms,N,Y,N,N,2.36,1.02,0,96.91,Not Relate

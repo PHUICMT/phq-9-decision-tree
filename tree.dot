@@ -1,0 +1,37 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<Score &le; 14.0<br/>gini = 0.451<br/>samples = 35<br/>value = [12, 23]<br/>class = Relate>, fillcolor="#a0d0f3"] ;
+1 [label=<Natural &le; 81.115<br/>gini = 0.5<br/>samples = 18<br/>value = [9, 9]<br/>class = Not Relate>, fillcolor="#ffffff"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<Happy &le; 26.24<br/>gini = 0.32<br/>samples = 10<br/>value = [8, 2]<br/>class = Not Relate>, fillcolor="#eca06a"] ;
+1 -> 2 ;
+3 [label=<gini = 0.0<br/>samples = 8<br/>value = [8, 0]<br/>class = Not Relate>, fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label=<gini = 0.0<br/>samples = 2<br/>value = [0, 2]<br/>class = Relate>, fillcolor="#399de5"] ;
+2 -> 4 ;
+5 [label=<Sad &le; 0.835<br/>gini = 0.219<br/>samples = 8<br/>value = [1, 7]<br/>class = Relate>, fillcolor="#55abe9"] ;
+1 -> 5 ;
+6 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0]<br/>class = Not Relate>, fillcolor="#e58139"] ;
+5 -> 6 ;
+7 [label=<gini = 0.0<br/>samples = 7<br/>value = [0, 7]<br/>class = Relate>, fillcolor="#399de5"] ;
+5 -> 7 ;
+8 [label=<Sad &le; 21.76<br/>gini = 0.291<br/>samples = 17<br/>value = [3, 14]<br/>class = Relate>, fillcolor="#63b2eb"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label=<Overtime &le; 0.5<br/>gini = 0.444<br/>samples = 3<br/>value = [2, 1]<br/>class = Not Relate>, fillcolor="#f2c09c"] ;
+8 -> 9 ;
+10 [label=<gini = 0.0<br/>samples = 2<br/>value = [2, 0]<br/>class = Not Relate>, fillcolor="#e58139"] ;
+9 -> 10 ;
+11 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 1]<br/>class = Relate>, fillcolor="#399de5"] ;
+9 -> 11 ;
+12 [label=<Happy &le; 1.22<br/>gini = 0.133<br/>samples = 14<br/>value = [1, 13]<br/>class = Relate>, fillcolor="#48a5e7"] ;
+8 -> 12 ;
+13 [label=<gini = 0.0<br/>samples = 12<br/>value = [0, 12]<br/>class = Relate>, fillcolor="#399de5"] ;
+12 -> 13 ;
+14 [label=<Natural &le; 21.04<br/>gini = 0.5<br/>samples = 2<br/>value = [1, 1]<br/>class = Not Relate>, fillcolor="#ffffff"] ;
+12 -> 14 ;
+15 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 1]<br/>class = Relate>, fillcolor="#399de5"] ;
+14 -> 15 ;
+16 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0]<br/>class = Not Relate>, fillcolor="#e58139"] ;
+14 -> 16 ;
+}
